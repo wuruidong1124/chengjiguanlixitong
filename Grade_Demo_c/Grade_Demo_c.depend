@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1527265205 source:c:\users\吴瑞东\desktop\c语言课程设计\grade_demo_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Add_student_info.h"
+
+1527161894 c:\users\吴瑞东\desktop\c语言课程设计\grade_demo_c\add_subject.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527161403 source:c:\users\吴瑞东\desktop\c语言课程设计\grade_demo_c\add_subject.c
+	"Add_Subject.h"
+	<string.h>
+	<stdio.h>
+
+1527264952 source:c:\users\吴瑞东\desktop\c语言课程设计\grade_demo_c\add_student_info.c
+	"Add_student_info.h"
+	<stdio.h>
+	<string.h>
+
+1527264952 c:\users\吴瑞东\desktop\c语言课程设计\grade_demo_c\add_student_info.h
+	<stdio.h>
+
